@@ -1,0 +1,6 @@
+scope,subset_id,model,likelihood,n_nodes,n_obs,param_count_k,nll_bits,penalty_bits,mdl_bits,notes,source_file
+typed,typed_all,M0_ER,poisson,53987,2914596169,1,66652352.96,15.720324429539547,66652368.68032443,Recomputed penalty (BIC like),mdl_full_summary.csv
+typed,typed_all,M2_typeSBM,poisson,53987,2914596169,1087849,43503000.83,17101339.210350167,60604340.04035017,Recomputed penalty (BIC like),mdl_full_summary.csv
+mapped_typed_core,mapped_core,M0_ER,poisson,35781,1280279961,1,39033195.74,15.126906087645828,39033210.86690609,Recomputed penalty (BIC like),mdl_M3_spatial.csv
+mapped_typed_core,mapped_core,M2_typeSBM,poisson,35781,1280279961,538756,24738573.99,8149711.4161557155,32888285.406155713,Recomputed penalty (BIC like),mdl_M3_spatial.csv
+mapped_typed_core,mapped_core,M3_type+dist,poisson,35781,1280279961,5387560,13626035.29,81497114.16155715,95123149.45155716,Recomputed penalty (BIC like),mdl_M3_spatial.csv

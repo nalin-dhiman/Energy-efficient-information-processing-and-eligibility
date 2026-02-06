@@ -1,0 +1,13 @@
+rule,Cost_Model,Median_Rank
+Oja,Linear,4.0
+RewardHebb,Linear,2.0
+REINFORCE,Linear,3.0
+EProp,Linear,1.0
+Oja,Super,3.0
+RewardHebb,Super,2.0
+REINFORCE,Super,3.0
+EProp,Super,1.0
+Oja,Thresh,3.0
+RewardHebb,Thresh,2.0
+REINFORCE,Thresh,3.0
+EProp,Thresh,1.0

@@ -1,0 +1,4 @@
+/opt/pyvenv/lib/python3.11/site-packages/pandas/core/arrays/categorical.py:595: RuntimeWarning: invalid value encountered in cast
+  np.array(self.categories._na_value).astype(dtype)
+/opt/pyvenv/lib/python3.11/site-packages/pandas/core/arrays/categorical.py:595: RuntimeWarning: invalid value encountered in cast
+  np.array(self.categories._na_value).astype(dtype)
