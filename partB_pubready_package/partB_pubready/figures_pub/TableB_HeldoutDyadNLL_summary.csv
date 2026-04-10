@@ -1,0 +1,5 @@
+model,evaluation,metric,mean,sd,n_splits,m3_dyads_per_split,train_frac,distance_bins,mapped_core_nodes,mapped_core_edges
+M0_ER,exact dyad split,heldout_poisson_nll_bits_per_test_dyad,0.13177114934821685,0.0002329150901728563,5,1000000,0.8,10,35781,3997892
+M2_typeSBM,exact dyad split,heldout_poisson_nll_bits_per_test_dyad,0.07422294436308303,0.00030471031092203164,5,1000000,0.8,10,35781,3997892
+M3_type+dist,sampled dyad split,heldout_poisson_nll_bits_per_test_dyad,0.4160697713187476,0.041303065754347154,5,1000000,0.8,10,35781,3997892
+M3_coordShuffle,sampled dyad split,heldout_poisson_nll_bits_per_test_dyad,0.5274020382192954,0.03720151544672629,5,1000000,0.8,10,35781,3997892

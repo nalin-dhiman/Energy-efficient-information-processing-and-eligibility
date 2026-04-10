@@ -1,0 +1,30 @@
+{
+  "A1": {
+    "caption": "Dataset integrity and coverage.",
+    "sources": [
+      "cells.parquet",
+      "retinotopy.parquet",
+      "cell_graph.parquet"
+    ]
+  },
+  "A2": {
+    "caption": "Retinotopy geometry of mapped neurons.",
+    "sources": [
+      "retinotopy.parquet"
+    ]
+  },
+  "A3": {
+    "caption": "T4/T5 subsystem composition.",
+    "sources": [
+      "cells.parquet",
+      "cell_graph.parquet"
+    ]
+  },
+  "A4": {
+    "caption": "Type-to-type connectivity.",
+    "sources": [
+      "cells.parquet",
+      "cell_graph.parquet"
+    ]
+  }
+}

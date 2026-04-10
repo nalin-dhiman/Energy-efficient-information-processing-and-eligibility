@@ -1,0 +1,6 @@
+subset,model,nll_bits_per_neuron,bits_per_neuron
+mapped_core,M0_ER,1090.8916948949402,1090.8921176585884
+mapped_core,M2_typeSBM,691.3885579806736,919.1550099008468
+mapped_core,M3_type+dist,380.8176209263115,2658.482140128043
+mapped_core,M3_coord_shuffle_null_mean,680.3477655745409,2958.0122847762727
+mapped_core,M3_coord_shuffle_null_sd,0.06430021267615602,0.06430021267609885

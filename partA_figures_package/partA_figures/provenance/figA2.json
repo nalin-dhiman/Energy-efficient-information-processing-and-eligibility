@@ -1,0 +1,12 @@
+{
+  "figure": "A2",
+  "sources": [
+    "retinotopy.parquet"
+  ],
+  "columns_used": [
+    "mean_u",
+    "mean_v"
+  ],
+  "n_mapped": 7828,
+  "n_total": 24608
+}
