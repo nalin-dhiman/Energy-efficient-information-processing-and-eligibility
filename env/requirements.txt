@@ -1,6 +1,0 @@
-# One environment that can regenerate all paper-ready plots
-numpy>=1.23
-pandas>=2.0
-matplotlib>=3.8
-scipy>=1.10
-pyarrow>=12.0

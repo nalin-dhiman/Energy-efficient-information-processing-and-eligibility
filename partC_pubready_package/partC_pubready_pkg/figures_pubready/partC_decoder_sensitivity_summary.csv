@@ -1,0 +1,10 @@
+decoder_family,condition,I_lb_mean,I_lb_sem,n
+PublishedLinear,Real,0.4077838514086275,0.02254924345039528,5
+PublishedLinear,LabelShuffle,0.0,0.0,5
+PublishedLinear,ConnShuffle,0.0,0.0,5
+LinearLogReg_PCA8,Real,0.698983872772971,0.06291435735408928,5
+LinearLogReg_PCA8,ConnShuffle,0.9517132030855407,0.028084582577310002,5
+LinearLogReg_PCA8,LabelShuffle,0.0,0.0,5
+NonlinearMLP_PCA8,Real,0.9624256442869694,0.08675627649047099,5
+NonlinearMLP_PCA8,ConnShuffle,0.9963231555224636,0.07727083307593047,5
+NonlinearMLP_PCA8,LabelShuffle,0.0,0.0,5

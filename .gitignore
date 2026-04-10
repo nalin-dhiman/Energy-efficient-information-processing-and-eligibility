@@ -1,16 +1,4 @@
-# Python
 __pycache__/
-*.py[cod]
-*.so
-.venv/
-venv/
-ENV/
-
-# OS
+*.pyc
 .DS_Store
 
-# Outputs
-reproduced_outputs/
-
-# Optional: keep archive zips out of git history (prefer Releases)
-archive/

@@ -1,0 +1,5 @@
+{
+  "typed_all": "mdl_full_summary.csv",
+  "mapped_core": "mdl_M3_spatial.csv",
+  "N_values_source": "reconstruct_counts.py analysis of nodes.parquet"
+}

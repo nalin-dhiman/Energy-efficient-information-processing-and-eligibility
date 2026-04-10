@@ -1,0 +1,5 @@
+rule,Linear,Super,Thresh
+EProp,1.0,1.0,1.0
+RewardHebb,2.0,2.0,2.0
+REINFORCE,3.0,3.0,3.0
+Oja,4.0,3.0,3.0

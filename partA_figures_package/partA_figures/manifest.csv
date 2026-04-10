@@ -1,0 +1,4 @@
+FigureID,Filename,Inputs,Description
+A1,FigA1_PartA_QC,"cells.parquet, cell_graph.parquet, retinotopy.parquet","QC Summary: Subtypes, Missingness, Edge Weights"
+A2,FigA2_Retinotopy_Coverage,retinotopy.parquet,Retinotopy Hexbin Coverage
+A3,FigA3_TypeGraph_Heatmap,type_graph.parquet,Type-to-Type Connectivity Heatmap
