@@ -33,3 +33,8 @@ Recommended starting points:
 - `partD_pubready_package/README.md`
 - `partE_pubready_package/partE_pubready/README.md`
 
+# Citation
+# If you use this code, the processed data, or these figures in your research, please cite the primary manuscript:
+#
+# Article: Energy-Efficient Information Processing and Eligibility
+# Nature Scientific Reports (2026): https://www.nature.com/articles/s41598-026-52140-3
