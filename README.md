@@ -10,11 +10,6 @@ What is included:
 - `partE_pubready_package/` learning-rule benchmarks, processed patch outputs, trajectory tables, motif outputs, and figure assets
 - `submission_figure_hub/` a centralized collection of manuscript-facing figure files
 
-What is intentionally excluded:
-- manuscript source files (`main.tex`, `supplement.tex`, rebuttal files, and related paper text)
-- Overleaf/export-only submission bundles
-- local environment artifacts, caches, and manuscript build products
-
 Large-file note:
 - `partC_pubready_package/partC_pubready_pkg/data/retinotopy_subset.csv` exceeded GitHub's normal file-size limit, so this branch stores it as `retinotopy_subset.csv.gz`.
 - To restore the original CSV locally, run:
